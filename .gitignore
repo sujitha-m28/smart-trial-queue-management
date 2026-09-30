@@ -1,0 +1,28 @@
+# Node / Angular
+node_modules/
+dist/
+.angular/
+.cache/
+
+# Java / Spring Boot
+target/
+*.class
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
